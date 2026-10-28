@@ -1,0 +1,10 @@
+{
+  "name": "Maya Music",
+  "short_name": "Maya",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "description": "Maya Music \u2014 Developed by Dhanush",
+  "icons": []
+}

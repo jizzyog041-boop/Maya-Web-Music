@@ -1,0 +1,8 @@
+{
+  "appId": "app.dhanush.mayamusic",
+  "appName": "Maya Music",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
