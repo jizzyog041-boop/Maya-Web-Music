@@ -12,7 +12,7 @@
 - Free static hosting guide
 
 ## Music rights and provider
-This build uses the Free To Use public API (`https://api.freetouse.com/v3`) for royalty-free music. Read the current licence: https://freetouse.com/license . Free use is subject to provider conditions; commercial use may require a paid licence. This is not a source for every commercial chart song, film soundtrack, or Spotify track. Provider endpoints, quotas, CORS behaviour or terms can change; check https://freetouse.com/api if search fails.
+This build uses the Free To Use public API (`https://api.freetouse.com/v3/music/tracks/search?query=...`) for royalty-free music. Read the current licence: https://freetouse.com/license . Free use is subject to provider conditions; commercial use may require a paid licence. This is not a source for every commercial chart song, film soundtrack, or Spotify track. Provider endpoints, quotas, CORS behaviour or terms can change; check https://freetouse.com/api if search fails.
 
 ## Free Netlify hosting
 1. Extract this ZIP.
